@@ -1,0 +1,22 @@
+Welcome to Free Fall. 
+Free Fall is not a commercial application.
+This privacy policy provides information about the data processing activities conducted by Free Fall which is a free, amateur app developed for entertainment purposes and is available on the Google Play Store. 
+Caglar Cengizler is the sole developer and operator of Free Fall.
+
+Data Collection and Processing
+
+Free Fall does not collect or process any personal data from its users. The app is designed to provide an entertaining experience without the need for data collection, and as such, users can enjoy the app's functionalities without concerns regarding personal data privacy.
+
+Use of Third-Party Services
+
+Currently, Free Fall does not use any third-party services that may collect data from its users. Should this change in future updates, this privacy policy will be updated accordingly, and users will be notified of any new data processing activities.
+Free Fall is available on the Google Play Store. While the app itself does not collect or process personal data, the Google Play Store and its associated services, operated by Google LLC, may collect user data. This includes, but is not limited to, information about app downloads, installations, updates, and usage. The data collection and processing by Google Play are governed by Google's Privacy Policy. We encourage users to review Google's policy to understand how their data is handled by Google services.
+
+Compliance with Privacy Laws
+
+Free Fall is committed to complying with all applicable privacy laws and regulations. Although the app does not collect personal data, it is designed and operated with a focus on privacy and data protection.
+
+
+Contact Information
+
+For any questions or suggestions about our Privacy Policy, do not hesitate to contact me
